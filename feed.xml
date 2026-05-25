@@ -15,9 +15,9 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://modern-llm.github.io/tutorial/cover.png"/>
+    <itunes:image href="https://modern-llm.github.io/tutorial/cover.png?v=2026-05-24"/>
     <image>
-      <url>https://modern-llm.github.io/tutorial/cover.png</url>
+      <url>https://modern-llm.github.io/tutorial/cover.png?v=2026-05-24</url>
       <title>Modern LLM Tutorial</title>
       <link>https://modern-llm.github.io/tutorial/feed.xml</link>
     </image>
