@@ -2,9 +2,9 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Modern LLM</title>
-    <link>https://geepeetee.github.io/llm-tutor-feed/feed.xml</link>
+    <link>https://modern-llm.github.io/tutorial/feed.xml</link>
     <description>Single-voice explainer episodes closing the post-2023 LLM gap. Foundations to frontier.</description>
-    <atom:link href="https://geepeetee.github.io/llm-tutor-feed/feed.xml" rel="self"/>
+    <atom:link href="https://modern-llm.github.io/tutorial/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
@@ -19,7 +19,7 @@
       <title>Why attention won</title>
       <description>What was wrong with RNNs/LSTMs that self-attention solved?</description>
       <guid isPermaLink="false">ep01_why_attention_won</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep01_why_attention_won.mp3" length="4546514" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep01_why_attention_won.mp3" length="4546514" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:1 +0000</pubDate>
       <itunes:duration>1135</itunes:duration>
     </item>
@@ -27,7 +27,7 @@
       <title>Pretraining, scaling laws, and data</title>
       <description>Why next-token prediction works, how Chinchilla changed the recipe, and why data quality became the bottleneck</description>
       <guid isPermaLink="false">ep02_pretraining_and_scaling_laws</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep02_pretraining_and_scaling_laws.mp3" length="5457619" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep02_pretraining_and_scaling_laws.mp3" length="5457619" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:2 +0000</pubDate>
       <itunes:duration>1363</itunes:duration>
     </item>
@@ -35,7 +35,7 @@
       <title>Position embeddings: from sinusoidal to RoPE</title>
       <description>Why positions are hard, how RoPE rotates Q/K, why it extrapolates</description>
       <guid isPermaLink="false">ep03_position_embeddings</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep03_position_embeddings.mp3" length="4217028" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep03_position_embeddings.mp3" length="4217028" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:3 +0000</pubDate>
       <itunes:duration>1053</itunes:duration>
     </item>
@@ -43,7 +43,7 @@
       <title>Attention efficiency: KV cache, MQA, GQA, Flash</title>
       <description>Why inference memory is the real bottleneck, not training; quantization and speculative decoding</description>
       <guid isPermaLink="false">ep04_attention_efficiency</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep04_attention_efficiency.mp3" length="5149547" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep04_attention_efficiency.mp3" length="5149547" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:4 +0000</pubDate>
       <itunes:duration>1286</itunes:duration>
     </item>
@@ -51,7 +51,7 @@
       <title>MoE and conditional compute</title>
       <description>Decoupling parameter count from per-token compute; why this is the architecture of 2024+ frontier models</description>
       <guid isPermaLink="false">ep05_moe</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep05_moe.mp3" length="4681539" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep05_moe.mp3" length="4681539" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:5 +0000</pubDate>
       <itunes:duration>1169</itunes:duration>
     </item>
@@ -59,7 +59,7 @@
       <title>Long context</title>
       <description>NTK/YaRN scaling, sliding-window attention, attention sinks, lost in the middle</description>
       <guid isPermaLink="false">ep06_long_context</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep06_long_context.mp3" length="5138749" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep06_long_context.mp3" length="5138749" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:6 +0000</pubDate>
       <itunes:duration>1283</itunes:duration>
     </item>
@@ -67,7 +67,7 @@
       <title>LoRA and cheap adaptation</title>
       <description>Why fine-tuning updates are low-rank, and how LoRA and QLoRA made adaptation practical</description>
       <guid isPermaLink="false">ep07_lora</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep07_lora.mp3" length="3784867" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep07_lora.mp3" length="3784867" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:7 +0000</pubDate>
       <itunes:duration>945</itunes:duration>
     </item>
@@ -75,7 +75,7 @@
       <title>Multimodal models</title>
       <description>Vision encoders, CLIP, LLaVA, late fusion; why treating patches as tokens won</description>
       <guid isPermaLink="false">ep08_multimodal</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep08_multimodal.mp3" length="3841074" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep08_multimodal.mp3" length="3841074" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:8 +0000</pubDate>
       <itunes:duration>959</itunes:duration>
     </item>
@@ -83,7 +83,7 @@
       <title>Instruction tuning and RLHF</title>
       <description>How raw pretrained models became chatbots; the SFT → reward model → PPO arc</description>
       <guid isPermaLink="false">ep09_instruction_tuning_and_rlhf</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep09_instruction_tuning_and_rlhf.mp3" length="4645792" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep09_instruction_tuning_and_rlhf.mp3" length="4645792" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:9 +0000</pubDate>
       <itunes:duration>1160</itunes:duration>
     </item>
@@ -91,7 +91,7 @@
       <title>DPO and preference optimization</title>
       <description>Closed-form simplification of RLHF; the descendants (KTO, IPO, ORPO)</description>
       <guid isPermaLink="false">ep10_dpo</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep10_dpo.mp3" length="3636404" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep10_dpo.mp3" length="3636404" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:10 +0000</pubDate>
       <itunes:duration>908</itunes:duration>
     </item>
@@ -99,7 +99,7 @@
       <title>GRPO and verifiable rewards</title>
       <description>Group-relative advantages, dropping the value head, why math/code unlocked RL</description>
       <guid isPermaLink="false">ep11_grpo</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep11_grpo.mp3" length="4462441" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep11_grpo.mp3" length="4462441" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:11 +0000</pubDate>
       <itunes:duration>1114</itunes:duration>
     </item>
@@ -107,7 +107,7 @@
       <title>Reasoning models and test-time compute</title>
       <description>o1, R1, the s1 finding that 1k traces ≈ near-frontier reasoning; distillation</description>
       <guid isPermaLink="false">ep12_reasoning_models</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep12_reasoning_models.mp3" length="2965661" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep12_reasoning_models.mp3" length="2965661" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:12 +0000</pubDate>
       <itunes:duration>740</itunes:duration>
     </item>
@@ -115,7 +115,7 @@
       <title>Agents: from prompts to systems</title>
       <description>ReAct, planner/executor, standardized tool calling, why simple workflows beat agents until they don't</description>
       <guid isPermaLink="false">ep13_agents</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep13_agents.mp3" length="3083372" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep13_agents.mp3" length="3083372" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:13 +0000</pubDate>
       <itunes:duration>770</itunes:duration>
     </item>
@@ -123,7 +123,7 @@
       <title>Synthetic data and the data flywheel</title>
       <description>Rejection sampling, R1 distillation, curation pipelines, and why synthetic data works best in verifiable domains</description>
       <guid isPermaLink="false">ep14_synthetic_data</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep14_synthetic_data.mp3" length="2094741" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep14_synthetic_data.mp3" length="2094741" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:14 +0000</pubDate>
       <itunes:duration>523</itunes:duration>
     </item>
@@ -131,7 +131,7 @@
       <title>Evaluation: how we measure what models can do</title>
       <description>Benchmarks, contamination, domain evals, Chatbot Arena, SWE-bench, the vibes-vs-metrics gap</description>
       <guid isPermaLink="false">ep15_evaluation</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep15_evaluation.mp3" length="3243097" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep15_evaluation.mp3" length="3243097" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:15 +0000</pubDate>
       <itunes:duration>810</itunes:duration>
     </item>
@@ -139,7 +139,7 @@
       <title>Optimizer renaissance: AdamW to Muon</title>
       <description>Why the training stack is still alive; modded-nanogpt, Muon, schedules, and the next bottlenecks</description>
       <guid isPermaLink="false">ep16_muon</guid>
-      <enclosure url="https://geepeetee.github.io/llm-tutor-feed/episodes/ep16_muon.mp3" length="2940195" type="audio/mpeg"/>
+      <enclosure url="https://modern-llm.github.io/tutorial/episodes/ep16_muon.mp3" length="2940195" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 10:10:16 +0000</pubDate>
       <itunes:duration>734</itunes:duration>
     </item>
