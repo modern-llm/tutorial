@@ -15,6 +15,12 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://modern-llm.github.io/tutorial/cover.png"/>
+    <image>
+      <url>https://modern-llm.github.io/tutorial/cover.png</url>
+      <title>Modern LLM Tutorial</title>
+      <link>https://modern-llm.github.io/tutorial/feed.xml</link>
+    </image>
     <item>
       <title>Why attention won</title>
       <description>What was wrong with RNNs/LSTMs that self-attention solved?</description>
